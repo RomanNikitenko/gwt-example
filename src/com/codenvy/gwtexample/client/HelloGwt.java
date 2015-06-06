@@ -12,6 +12,7 @@ public class HelloGwt implements EntryPoint {
 
 	@Override
 	  public void onModuleLoad() {
+111111111111111111111111111111111111111111111111111
 	    Label label = new Label("Hello GWT !!!");
 	    label.setStyleName("my_label_for_css"); // Change css to use this
 	    Button button = new Button("Say something");
